@@ -5,7 +5,7 @@ ATTRAKTORs DESIGNER is an application created with TouchDesigner from Derivative
 It can play with the different equations of strange attractors or others, mix and control them with different parameters in order to modify the movement of particles by creating random and aesthetically coherent shapes.
 
 <p align="center" width="100%">
-    <img width="75%" src="https://github.com/Jive-Faury/Attraktor_Designer_WIKI/blob/main/images/AttraktorDesignerApp.gif">
+    <img width="75%" src="https://github.com/Jive-Faury/Attraktors_Designer_WIKI/blob/main/images/AttraktorDesignerApp.gif?raw=true">
 </p>
 
 Here the Wiki for the App : https://github.com/Jive-Faury/Attraktor_Designer/wiki/1.-The-Attraktors-Designer-App-Wiki
